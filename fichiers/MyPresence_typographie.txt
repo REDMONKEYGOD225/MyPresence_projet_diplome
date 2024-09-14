@@ -1,0 +1,10 @@
+polices
+Playfair Display pour les titres et en-têtes
+Raleway ou Merriweather pour le texte courant et les paragraphes
+Quicksand ou Raleway pour les boutons et les éléments interactifs
+couleures 
+titres en Bleu Saphir
+boutons en Vert Émeraude
+survoles en Bleu Clair Pastel
+textes Gris foncé
+arriere plan en Bleu Nuit
